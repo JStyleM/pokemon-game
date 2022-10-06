@@ -1,24 +1,5 @@
 # 04-pokemon-game
 
-## Project setup
-```
-npm install
-```
+Juego hecho con vue y la api de pokemon [PokeApi](https://pokeapi.co/)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your unit tests
-```
-npm run test:unit
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Demo del juego : [¿Cual es ese Pokemon?](https://pokemon-v.netlify.app/)
